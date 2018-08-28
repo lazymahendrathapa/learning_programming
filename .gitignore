@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 *.pytest_cache/
 learn_python_the_hard_way/47_automated_testing/__pycache__/*
+workshop/modules/__pycache__/*
 

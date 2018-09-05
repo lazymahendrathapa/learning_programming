@@ -13,6 +13,21 @@ Helloworld
 
 """
 
+"""
+Write a class in which its one method accepts a string from console and 
+another method to print the characters that have odd indexes.
+
+Example:
+If the following string is given as input to the program:
+
+Hello123
+
+Then, the output of the program should be:
+
+el13
+
+"""
+
 
 if __name__ == "__main__":
     pass
